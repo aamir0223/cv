@@ -1,0 +1,174 @@
+body
+{
+  
+  margin:0;
+  text-align:center;
+font-family:verdana ,sans-serif;
+ 
+}
+
+.container
+{
+
+background-color:#eaffd0;
+position:relative;
+padding-top:3.125em;
+
+
+}
+
+.image1
+{
+width:6.25em;
+height:6.25em;
+position:absolute;
+right:18.75em;
+  
+}
+.image3
+{
+background-color:#eaffd0;
+width:6.25em;
+height:6.25em;
+position:absolute;
+left:18.75em;
+top:18.75em;
+  
+}
+.image2
+{
+margin-top:2.5em;
+width:25em;
+height:25em;
+}
+
+.h1
+{
+font-family: 'Sacramento',cursive;
+margin-top:5.625em;
+
+}
+.p
+{
+  color:#66BfBf;
+    margin-top: 3em;
+font-size:1.25em;
+}
+.aamir
+{
+  width:9.375em;
+  height:9.375em;
+  border-radius:4.6875em;
+}
+.bio
+{
+ width:50%;
+ margin:10px auto 30px auto;
+
+
+}
+.code
+{
+ width:150px;
+ height:150px;
+ border-radius:75px;
+  float:left;
+  margin-right:30px;
+}
+.skill1
+{
+  width:50%;
+margin:100px auto 100px auto;
+line-height:2;
+text-align:left;
+}
+ .skill
+{
+  margin-top:50px;
+}
+  
+.dhoni
+
+{
+ width:150px;
+ height:120px;
+ border-radius:75px;
+  float:right;
+  margin-left:30px;
+}
+
+h3
+{
+ color:#11999E;
+font-family:'Montserrat',sans-serif;
+} 
+
+h1
+{
+ color:#66BfBf;
+font-family:'Montserrat',sans-serif;
+}
+hr
+{
+  width:5%;
+  border:1px dashed red;
+  
+}
+.contact-container
+{
+   width:600px;
+height:200px;
+margin:100px auto 150px auto;
+}
+.contact-masage
+{
+  margin-bottom:70px;
+line-height:2;
+}
+
+.contact
+{
+ margin-top:200px;
+  background-color:#66BfBf;
+  border-radius:20px;
+  text-decoration:none;
+
+color:#11999E;
+ padding:5px 30px ;
+
+
+} 
+.contact:hover
+{
+ background-color:lightpink;
+}
+.coppy
+{
+margin-top:100px;
+ padding:50px 100px 30px 100px;
+  background-color:#eaffd0;
+}
+.copywrite
+{
+ color:white;
+  line-height:2;
+  margin-top:1em;
+
+ }
+.link
+{
+
+  color:#66BfBf;
+  text-decoration:none;
+  margin-right: 50px;
+color:#11999E;
+font-size:15px;
+ 
+
+
+} 
+.link:hover
+{
+ color:lightpink;
+}
+
